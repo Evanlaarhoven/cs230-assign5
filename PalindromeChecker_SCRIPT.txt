@@ -1,0 +1,6 @@
+Is aaaa a palindrome? true
+Is madam a palindrome? true
+Is atoyota a palindrome? true
+Is Madam a palindrome? false
+Is the empty string a palindrome? false
+Is emily a palindrome? false
